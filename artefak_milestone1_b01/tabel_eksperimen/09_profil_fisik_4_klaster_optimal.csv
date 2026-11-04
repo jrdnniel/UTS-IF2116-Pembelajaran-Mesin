@@ -1,0 +1,5 @@
+Klaster,Tipologi Karakteristik Lokasi & Kejadian,Populasi Train,Populasi Test,Rata-Rata Speed Limit (mph),Rata-Rata Kendaraan,Rata-Rata Korban,Rasio Korban/Kendaraan,Indeks Bahaya Lingkungan,Proporsi Wilayah Pedesaan (%),Proporsi Fatal/Serious (%)
+Klaster 0,Klaster 0 Komuter Perkotaan Kecepatan Rendah,"59,622 (73.41%)","14,876 (73.26%)",28.49,1.79,1.1,0.68,1.12,16.69,23.84
+Klaster 1,Klaster 1 Insiden Multi-Korban Persimpangan & Cuaca Rawan,"4,381 (5.39%)","1,104 (5.44%)",38.04,1.63,2.97,1.93,1.25,44.92,38.99
+Klaster 2,Klaster 2 Koridor Arteri Pedesaan Kecepatan Tinggi,"17,001 (20.93%)","4,281 (21.08%)",60.51,1.95,1.32,0.74,0.97,90.92,30.93
+Klaster 3,Klaster 3 Insiden Massal / Tabrakan Beruntun Ekstrem,214 (0.26%),44 (0.22%),45.65,1.31,6.5,5.3,1.22,64.02,57.94

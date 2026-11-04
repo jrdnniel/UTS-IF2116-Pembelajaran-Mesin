@@ -1,0 +1,10 @@
+Kategori Bedah Kasus,collision_index,Klaster,Jarak ke Centroid,Margin ke Klaster Ke-2,Speed Limit (mph),Kendaraan,Korban,Rasio Korban,Indeks Bahaya
+Prototipe Inti (Dekat Centroid),2025320728159,0,0.7921,2.7168,30.0,2,1,0.5,1
+Prototipe Inti (Dekat Centroid),2025320419250,0,0.8777,2.6498,30.0,2,1,0.5,1
+Prototipe Inti (Dekat Centroid),2025320399217,0,0.8778,2.6496,30.0,2,1,0.5,1
+Kasus Transisi Batas Antar-Klaster,2025991606081,0,3.7794,0.0006,30.0,3,3,1.0,3
+Kasus Transisi Batas Antar-Klaster,2025991673235,0,3.7828,0.0011,40.0,2,1,0.5,3
+Kasus Transisi Batas Antar-Klaster,2025991605500,2,3.0505,0.0012,40.0,2,1,0.5,0
+Insiden Massal Ekstrem (Klaster 3),2025041681268,3,58.9246,7.5836,30.0,1,32,32.0,1
+Insiden Massal Ekstrem (Klaster 3),2025440281666,3,15.7544,7.2644,30.0,2,20,10.0,0
+Insiden Massal Ekstrem (Klaster 3),2025991662973,3,6.2355,7.0491,30.0,1,8,8.0,1

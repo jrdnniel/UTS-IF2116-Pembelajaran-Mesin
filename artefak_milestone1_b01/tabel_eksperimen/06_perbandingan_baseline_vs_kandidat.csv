@@ -1,0 +1,5 @@
+Nama Model,Keluarga Algoritma,Train Silhouette,Test Silhouette,Train DBI,Test DBI,Train CHI,Test CHI,Waktu Fit (Detik)
+"1. Baseline K-Means (Tanpa PCA, 35D)",Single Partitioning (Raw Space),0.1216,0.1247,2.2519,2.255,11644.2,3514.8,0.2373
+"2. K-Means + PCA (8 Komponen, 85.64% Var)",Single Partitioning (PCA Space),0.3434,0.3522,1.2882,1.3041,13301.3,3997.2,0.0769
+3. Bisecting K-Means + PCA (8 Komponen),Divisive Hierarchical (PCA Space),0.218,0.2223,1.3002,1.7258,23467.9,5874.4,0.1689
+4. Ward Hierarchical + PCA (8 Komponen),Agglomerative Linkage (PCA Space),0.223,0.2199,1.6701,1.6874,15969.2,4981.7,0.2753
