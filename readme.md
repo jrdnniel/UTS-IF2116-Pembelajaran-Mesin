@@ -1,4 +1,4 @@
-# Milestone 1 (UTS) IF2116 Pembelajaran Mesin — Proyek B01: Karakteristik Lokasi dan Kejadian Kecelakaan
+# Milestone 1 (UTS) IF2116 Pembelajaran Mesin Proyek B01: Karakteristik Lokasi dan Kejadian Kecelakaan
 
 Repositori ini memuat seluruh kode eksperimen, dataset, laporan akademik, tabel metrik evaluasi, serta artefak visualisasi untuk **Milestone 1 (Ujian Tengah Semester)** mata kuliah **IF2116 Pembelajaran Mesin**.
 
@@ -47,7 +47,7 @@ Proyek **B01** ini merumuskan masalah bagaimana mengelompokkan (*clustering*) **
 
 ## 3. Sumber Dataset
 
-- **Nama Dataset:** *UK Department for Transport (DfT) Road Safety Data — Collisions 2025 (STATS19)*
+- **Nama Dataset:** *UK Department for Transport (DfT) Road Safety Data Collisions 2025 (STATS19)*
 - **Nama Berkas Lokal di Repository:** `dft-road-casualty-statistics-collision-2025.csv` (`101.525` baris, `44` kolom, ukuran `19,35 MB`)
 - **Hash SHA-256:** `e699c19bdb82e47e449b6f3381ac87631865f6a31cef118c9955ba80ca870e2b`
 - **Tautan Portal Resmi:** [https://www.gov.uk/government/statistical-data-sets/road-safety-open-data](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data) dan [https://www.gov.uk/government/collections/road-accidents-and-safety-statistics](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
@@ -87,7 +87,7 @@ UTS-IF2116-Pembelajaran-Mesin/
 
 Notebook `UTS_B01.ipynb` dirancang mandiri (*self-contained*) dengan `seed_acak = 42` sehingga seluruh angka, tabel, dan grafik di dalam laporan dapat direproduksi secara identik.
 
-### Opsi A — Menjalankan secara Lokal (Windows / Linux / macOS)
+### Opsi A Menjalankan secara Lokal (Windows / Linux / macOS)
 
 1. **Kloning repository ke komputer lokal:**
    ```bash
